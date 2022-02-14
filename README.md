@@ -45,4 +45,4 @@ Todos os tipos de contribuições são muito bem-vindos!
 ## :art: **Sobre a Desenvolvedora**
 
 Feito com muito ♥ by Jhenifer Christ :wave: [Get in touch!](https://www.linkedin.com/in/jjheniferchrist/)
-Meus agradecimentos especiais ao Matheus Fraga (https://github.com/devfraga) pelo curso! Agora é hora de partir para ⭐️ #REACTNAVITE ⭐️ 
+Meus agradecimentos especiais ao Matheus Fraga (https://github.com/devfraga) pelo curso! Agora é hora de partir para ⭐️ #REACTNATIVE ⭐️ 
