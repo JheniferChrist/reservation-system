@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+<h1 align="center">
+  
+  ![home](https://user-images.githubusercontent.com/85563316/153856750-6aac203c-f78c-4e87-8250-3dee178c66a7.jpg)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+</h1>
 
-## Available Scripts
+<p align="center">Projeto Sistema de Reservas by Jhenifer Christ com ReactJs, Redux e Redux-Saga </p>
 
-In the project directory, you can run:
+<p align="center"><i>"O sucesso é uma consequência e não um objetivo."</i> </p>
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<p align="center">
+  <a href="#blush-project-objectives">Project objectives</a> •
+  <a href="#art-about-me">About Me</a>
+</p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## :blush: **Objetivo do Projeto**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Projeto usando ReactJs, Redux e Redux-Saga e Json-Server (API Fake), com objetivo de criar um site de reservas de passagens.
 
-### `npm run build`
+## 🚀 **Status**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Concluded ✔
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## ⚙ **Funcionalidades**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [x] Ver Pacotes de viagens disponíveis
+- [x] Salvar pacote na aba "suas reservas"
+- [x] Excluir da lista de "suas reservas"
+- [x] Ser notificado da quantidade total disponível
+- [x] Utilizar os botões para adicionar ou remover quantidade nas reservas
+- [x] Não permitir comprar mais do que o limite de estoque
 
-### `npm run eject`
+## :handshake: **Contribuição**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Este projeto é para fins de estudo também, então me mande um e-mail me contando o que você está fazendo e por que está fazendo, me ensine o que você sabe!
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Todos os tipos de contribuições são muito bem-vindos!
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+-   🐛 Encontre e me informe sobre problemas
+-   ⭐️ Adicione estrela se gostou
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## :art: **Sobre a Desenvolvedora**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Feito com muito ♥ by Jhenifer Christ :wave: [Get in touch!](https://www.linkedin.com/in/jjheniferchrist/)
+Meus agradecimentos especiais ao Matheus Fraga (https://github.com/devfraga) pelo curso! Agora é hora de partir para ⭐️ #REACTNAVITE ⭐️ 
